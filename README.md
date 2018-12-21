@@ -1,3 +1,3 @@
 # SoloLearn
-Source for C++ SoloLearn programs
+My SoloLearn Profile:
 https://www.sololearn.com/Profile/10121892
